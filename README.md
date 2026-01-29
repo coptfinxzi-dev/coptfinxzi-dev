@@ -38,7 +38,7 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 ## 📫 Get in Touch
 
 * GitHub: [@coptfinxzi](https://github.com/coptfinxzi-dev)
-* Email: **[your email]**
+* Email: **[COPTfinxi@gmail.com]**
 * Website / Portfolio: **[link if you have one]**
 
 ---
