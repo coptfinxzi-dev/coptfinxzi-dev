@@ -7,11 +7,7 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 
 ## 🚀 About Me
 
-* 💻 Developer who enjoys building useful (and sometimes weird) things
-* 🧠 Currently learning: **[add what you're learning]**
-* 🔭 Working on: **[current project or goal]**
-* 🎯 Interested in: **[tech, fields, hobbies]**
-* ☕ Powered by coffee & curiosity
+
 
 ---
 
@@ -22,7 +18,6 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 ![Tech](https://skillicons.dev/icons?i=js,ts,python,nodejs,git,github,html,cpp,cs,css,visualstudio,vscode)
 
 
-*(Edit icons as you like)*
 
 ---
 
@@ -39,8 +34,8 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 ## 📫 Get in Touch
 
 * GitHub: [@coptfinxzi](https://github.com/coptfinxzi)
-* Email: **[your email]**
-* Website / Portfolio: **[link if you have one]**
+* Email: **[COPT_finxzi@gmail.com]**
+* Website / Portfolio: **[https://icedexecutor.neocities.org/]**
 
 ---
 
