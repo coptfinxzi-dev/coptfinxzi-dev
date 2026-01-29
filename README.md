@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋 I'm coptfinxzi
 
-<!--
-**coptfinxzi-dev/coptfinxzi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! ✨
+This README shows up right on my profile, so here’s a little snapshot of who I am and what I do.
 
-Here are some ideas to get you started:
+---
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Developer who enjoys building useful (and sometimes weird) things
+* 🧠 Currently learning: **[add what you're learning]**
+* 🔭 Working on: **[current project or goal]**
+* 🎯 Interested in: **[tech, fields, hobbies]**
+* ☕ Powered by coffee & curiosity
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools I use:**
+
+```text
+• Language 1
+• Language 2
+• Framework / Library
+• Tool / Platform
+```
+
+Or visually:
+
+![Tech](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github)
+
+*(Edit icons as you like)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coptfinxzi\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coptfinxzi\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌱 What I’m Up To
+
+* 🚧 Improving my skills one commit at a time
+* 🤝 Open to collaboration and cool ideas
+* 📚 Always learning something new
+
+---
+
+## 📫 Get in Touch
+
+* GitHub: [@coptfinxzi](https://github.com/coptfinxzi-dev)
+* Email: **[your email]**
+* Website / Portfolio: **[link if you have one]**
+
+---
+
+> *“Code, break things, learn, repeat.”* 😄
+
+Thanks for stopping by! ⭐ If you like what you see, feel free to follow.
