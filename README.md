@@ -19,28 +19,13 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 
 **Languages & Tools I use:**
 
-```text
-• Language 1
-• Language 2
-• Framework / Library
-• Tool / Platform
-```
-
-Or visually:
-
-![Tech](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github)
+![Tech](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,html,c++,cs)
 
 *(Edit icons as you like)*
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coptfinxzi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coptfinxzi\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌱 What I’m Up To
 
