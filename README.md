@@ -19,13 +19,28 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 
 **Languages & Tools I use:**
 
+```text
+• Language 1
+• Language 2
+• Framework / Library
+• Tool / Platform
+```
+
+Or visually:
+
 ![Tech](https://skillicons.dev/icons?i=js,ts,python,nodejs,git,github,html,cpp,cs,css,vs,vscode)
 
 *(Edit icons as you like)*
 
 ---
 
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coptfinxzi\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coptfinxzi\&layout=compact\&theme=tokyonight)
+
+---
 
 ## 🌱 What I’m Up To
 
@@ -37,9 +52,9 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 
 ## 📫 Get in Touch
 
-* GitHub: [@coptfinxzi](https://github.com/coptfinxzi-dev)
-* Email: **[COPTfinxi@gmail.com]**
-* iced executor owner **[https://icedexecutor.neocities.org/]**
+* GitHub: [@coptfinxzi](https://github.com/coptfinxzi)
+* Email: **[your email]**
+* Website / Portfolio: **[link if you have one]**
 
 ---
 
