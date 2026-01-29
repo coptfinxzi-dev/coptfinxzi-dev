@@ -19,7 +19,7 @@ This README shows up right on my profile, so here’s a little snapshot of who I
 
 **Languages & Tools I use:**
 
-![Tech](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,html,c++,cs)
+![Tech](https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,html,cpp,cs,css)
 
 *(Edit icons as you like)*
 
