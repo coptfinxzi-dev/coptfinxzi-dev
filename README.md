@@ -11,12 +11,28 @@ Self Taught
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=coptfinxzi-dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=coptfinxzi-dev\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=coptfinxzi-dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=coptfinxzi-dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=coptfinxzi-dev\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=coptfinxzi-dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+
+</td>
+
+<td>
+
+<img src="https://freepngimg.com/thumb/pokemon/109831-ketchum-ash-png-image-high-quality.png" width="150">
+
+</td>
+</tr>
+</table>
 
 ---
-![](https://freepngimg.com/thumb/pokemon/109831-ketchum-ash-png-image-high-quality.png)
-[![](https://komarev.com/ghpvc/?username=coptfinxzi-dev\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=coptfinxzi-dev\&icon=0\&color=0)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
