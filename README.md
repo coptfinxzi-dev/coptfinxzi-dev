@@ -1,44 +1,15 @@
-# Hi there 👋 I'm coptfinxzi
-
-Welcome to my GitHub profile! ✨
-This README shows up right on my profile, so here’s a little snapshot of who I am and what I do.
-
----
-
-## 🚀 About Me
+# 💫 About Me:
+Self Tough
 
 
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools I use:**
-
-![Tech](https://skillicons.dev/icons?i=js,ts,python,nodejs,git,github,html,cpp,cs,css,visualstudio,vscode)
-
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= coptfinxzi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= coptfinxzi-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= coptfinxzi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username= coptfinxzi-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-## 🌱 What I’m Up To
-
-* 🚧 Improving my skills one commit at a time
-* 🤝 Open to collaboration and cool ideas
-* 📚 Always learning something new
-
----
-
-## 📫 Get in Touch
-
-* GitHub: [@coptfinxzi](https://github.com/coptfinxzi)
-* Email: **[COPT_finxzi@gmail.com]**
-* Website / Portfolio: **[https://icedexecutor.neocities.org/]**
-
----
-
-> *“Code, break things, learn, repeat.”* 😄
-
-Thanks for stopping by! ⭐ If you like what you see, feel free to follow.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
