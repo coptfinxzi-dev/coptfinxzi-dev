@@ -36,5 +36,5 @@ Self Taught
 ---
 
 # My current projects 
- - sha256 encryptor / decryptor ![](https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR)
+ ![](https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR)
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
