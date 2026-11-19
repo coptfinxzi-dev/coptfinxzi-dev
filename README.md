@@ -35,6 +35,6 @@ Self Taught
 
 ---
 
-![](https://komarev.com/ghpvc/?username=coptfinxzi-dev\&icon=0\&color=0)
-
+# My current projects 
+ - sha256 encryptor / decryptor ![](https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR)
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
