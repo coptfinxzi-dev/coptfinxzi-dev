@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Self Taught
+Self Taught developer from czechia
 
 # 💻 Tech Stack:
 
