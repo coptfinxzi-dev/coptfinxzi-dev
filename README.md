@@ -35,7 +35,7 @@ Self Taught developer from czechia
 
 ---
 # Support me
- - Kofi https://ko-fi.com/co12ptfinxzi
+ - [Support me on Ko-fi](https://ko-fi.com)
 # My current projects 
   - https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR
   - https://github.com/coptfinxzi-dev/noexploitplus
