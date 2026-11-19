@@ -36,5 +36,6 @@ Self Taught
 ---
 
 # My current projects 
- ![](https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR)
+  - https://github.com/coptfinxzi-dev/SHA256-ENCRYPTOR-DECRYPTOR
+  - https://github.com/coptfinxzi-dev/noexploitplus
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
